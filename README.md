@@ -8,7 +8,7 @@ Proje statik HTML, CSS ve JavaScript kullanır; paket kurulumu gerekmez. `index.
 
 ## İçerik
 
-- `logo.pdf` dosyası üst ve alt bölümde marka logosu olarak kullanılır.
+- Arka planı transparan `marmarayemeklogo.png` dosyası üst ve alt bölümde marka logosu olarak kullanılır.
 - Kurumsal tanıtım ve hizmet alanları
 - Mobil uyumlu gezinme menüsü
 - Yaklaşım ve iletişim bölümleri
