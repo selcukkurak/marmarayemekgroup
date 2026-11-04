@@ -20,6 +20,7 @@ Proje statik HTML, CSS ve JavaScript kullanır; paket kurulumu gerekmez. `index.
 
 ## Yayına almadan önce
 
+- `robots.txt` ve `sitemap.xml` içindeki `https://YOUR-DOMAIN.example` alanını yayındaki sitenin doğrulanmış alan adıyla değiştirin.
 - Şirketin onaylı logosu, iletişim bilgileri, adresi ve sosyal medya bağlantıları eklenmelidir.
 - Restoran rezervasyon talebi 0 546 905 55 27 numarasına WhatsApp mesajı olarak hazırlanır; rezervasyonun kesinliği işletme tarafından teyit edilmelidir. Restoran için ayrı bir numara varsa bu yönlendirme güncellenmelidir.
 - Toplu yemek iletişim hattı: 0 546 905 55 27 (telefon ve WhatsApp).
